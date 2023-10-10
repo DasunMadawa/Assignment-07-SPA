@@ -35,6 +35,7 @@ body > .nav_bar {
     justify-content: center;
     padding-top: 90px;
     height: 100vh;
+    min-height: 100vh;
     width: 100%;
     background-color: #DFE2EC;
 

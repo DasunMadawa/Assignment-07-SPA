@@ -14,7 +14,7 @@ const clear = function (){
 
 $("#home_page").on('click' , () => {
     clear();
-    home.css("display" , "block");
+    home.css("display" , "flex");
 
 });
 
